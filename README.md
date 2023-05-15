@@ -24,5 +24,11 @@ Here you can find all the [Fronted Mentor](https://www.frontendmentor.io/profile
     <td><a href="https://github.com/TimWang95/insure-landing-page">REPO</a></td>
     <td><a href="https://645f7e3b0459693b7a85247b--rococo-starburst-8a4b40.netlify.app/">DEMO</a></td>
   </tr>
-  
+  <tr>
+    <td>03</td>
+    <td>News homepage</td>
+    <td>Junior</td>
+    <td><a href="https://github.com/TimWang95/news-homepage">REPO</a></td>
+    <td><a href="https://lucent-brioche-56cd2b.netlify.app/">DEMO</a></td>
+  </tr>
 </table>
