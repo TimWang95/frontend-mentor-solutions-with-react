@@ -33,7 +33,7 @@ Here you can find all the [Fronted Mentor](https://www.frontendmentor.io/profile
   </tr>
   <tr>
     <td>03</td>
-    <td>Home homepage</td>
+    <td>Room homepage</td>
     <td>Intermediate</td>
     <td><a href="https://github.com/TimWang95/room-homepage">REPO</a></td>
     <td><a href="https://main--radiant-dusk-efc6d4.netlify.app/#home">DEMO</a></td>
