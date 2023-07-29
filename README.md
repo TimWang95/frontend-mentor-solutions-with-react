@@ -45,4 +45,11 @@ Here you can find all the [Fronted Mentor](https://www.frontendmentor.io/profile
     <td><a href="https://github.com/TimWang95/sunnyside-agency-landing-page">REPO</a></td>
     <td><a href="https://lucent-praline-ec32b2.netlify.app/">DEMO</a></td>
   </tr>
+  <tr>
+    <td>0</td>
+    <td>Space tourism website</td>
+    <td>Intermediate</td>
+    <td><a href="https://github.com/TimWang95/space-tourism-website/tree/main">REPO</a></td>
+    <td><a href="https://main--luminous-basbousa-303c8a.netlify.app/">DEMO</a></td>
+  </tr>
 </table>
